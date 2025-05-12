@@ -1,6 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=XuHanKai)
 
-just a boy in the rain
 
 <!---
 XuHanKai/XuHanKai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
